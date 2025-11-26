@@ -28,7 +28,7 @@ will be attatched soon.
 <br>
 <br>
 
-<h3>Future Technology to be Used. </h3> 
+<h3>Future Technology to be Used </h3> 
 <code><img src="https://miro.medium.com/max/1838/1*qgkjkj6BLVS1uD4mw_sTEg.png" width="120px" /></code>
 <code><img src="https://bigdatapath.files.wordpress.com/2019/04/1-4.jpg?w=698" width="120px" /></code>
 <code><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" width="120px" /></code>
