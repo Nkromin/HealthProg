@@ -35,9 +35,3 @@ will be attatched soon.
 <code><img src="https://www.vectorlogo.zone/logos/deepl/deepl-ar21.svg" width="120px" /></code>
 <br>
 <br>
-
-
-<h3>License</h3> 
-<img src="https://www.vectorlogo.zone/logos/mitedu/mitedu-ar21.svg" width="100px" />
-
- **Created By - Sarvesh Kumar Sharma**
