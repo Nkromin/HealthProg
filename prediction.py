@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 import joblib
 scal=StandardScaler()
 clfr = joblib.load("heartmodel.pkl")
- 
+# To 2: Preprocess the user input and make prediction
 def preprocess(age,sex,cp,trestbps,restecg,chol,fbs,thalach,exang,oldpeak,slope,ca,thal ):   
  
     if sex=="male":
